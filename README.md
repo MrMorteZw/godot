@@ -4,12 +4,8 @@
     <img src="logo.svg" width="400" alt="Godot Engine logo">
   </a>
 </p>
-	<div>
 	<h1 align="center">گودوت فارسی</h1>
-		</div>
-		<div>
 	<h6 align="right">با هدف آشنایی مردم ایران این مخزن ایجاد شده</h1>
-</div>
 </h1>
 
 
